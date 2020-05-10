@@ -9,4 +9,3 @@ operator:
   portshiftinstaller:
     managementUrl: console.portshift.io
     portshiftClusterId: ""
-

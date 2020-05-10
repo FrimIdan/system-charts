@@ -39,9 +39,3 @@ spec:
                   fieldPath: metadata.name
             - name: OPERATOR_NAME
               value: portshift-operator
-#            - name: RELATED_IMAGE_AGENT
-#              value: gcr.io/development-infra-208909/k8s_agent:stub
-#            - name: RELATED_IMAGE_AGENT_UPGRADER
-#              value: gcr.io/development-infra-208909/k8s_upgrader:stub
-#            - name: RELATED_IMAGE_AGENT_PASSIVE_DNS_DETECTOR
-#              value: gcr.io/development-infra-208909/gopassivedns:stub

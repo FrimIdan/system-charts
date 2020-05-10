@@ -36,10 +36,10 @@ spec:
           description: PortshiftInstallerSpec defines the desired state of PortshiftInstaller
           properties:
             portshiftClusterId:
-              description: Portshift cluster id as specified in portshift console
+              description: Portshift cluster id as specified in Portshift console
               type: string
             managementUrl:
-              description: portshift console URL
+              description: Portshift console URL
               type: string
           required:
             - portshiftClusterId
